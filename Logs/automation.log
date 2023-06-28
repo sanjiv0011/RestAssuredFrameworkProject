@@ -1,0 +1,191 @@
+12:59:02.229 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+12:59:05.134 [main] INFO  api.test.DataDrivenTest - *Users Created*
+12:59:05.151 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+12:59:06.311 [main] INFO  api.test.DataDrivenTest - *Users Created*
+12:59:06.331 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+12:59:07.487 [main] INFO  api.test.DataDrivenTest - *Users Created*
+12:59:07.492 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+12:59:08.635 [main] INFO  api.test.DataDrivenTest - *Users Created*
+12:59:08.780 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+12:59:10.019 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+12:59:10.027 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+12:59:11.098 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+12:59:11.100 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+12:59:12.315 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+12:59:12.319 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+12:59:13.419 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+12:59:13.610 [main] INFO  api.test.UserTest - *User creation started*
+12:59:14.792 [main] INFO  api.test.UserTest - *User created*
+12:59:14.802 [main] INFO  api.test.UserTest - *Fetching users by name*
+12:59:16.028 [main] INFO  api.test.UserTest - *Users found by name*
+12:59:16.038 [main] INFO  api.test.UserTest - *Start updating the users*
+12:59:18.530 [main] INFO  api.test.UserTest - *Users updated*
+12:59:18.541 [main] INFO  api.test.UserTest - *Start Deleting the users by name*
+12:59:19.785 [main] INFO  api.test.UserTest - *Users Deleted*
+12:59:19.910 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User creation started*
+12:59:21.168 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User created*
+12:59:21.181 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Fetching users by name*
+12:59:22.412 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users found by name*
+12:59:22.420 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start updating the users*
+12:59:24.595 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users updated*
+12:59:24.601 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start Deleting the users by name*
+12:59:25.718 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users Deleted*
+13:40:37.744 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:40:40.644 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:40:40.658 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:40:41.763 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:40:41.767 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:40:42.869 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:40:42.875 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:40:44.084 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:40:44.233 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:40:45.283 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:40:45.288 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:40:46.362 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:40:46.366 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:40:47.660 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:40:47.662 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:40:48.829 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:40:49.019 [main] INFO  api.test.UserTest - *User creation started*
+13:40:50.170 [main] INFO  api.test.UserTest - *User created*
+13:40:50.175 [main] INFO  api.test.UserTest - *Fetching users by name*
+13:40:51.429 [main] INFO  api.test.UserTest - *Users found by name*
+13:40:51.431 [main] INFO  api.test.UserTest - *Start updating the users*
+13:40:53.597 [main] INFO  api.test.UserTest - *Users updated*
+13:40:53.603 [main] INFO  api.test.UserTest - *Start Deleting the users by name*
+13:40:54.623 [main] INFO  api.test.UserTest - *Users Deleted*
+13:40:54.673 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User creation started*
+13:40:55.737 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User created*
+13:40:55.738 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Fetching users by name*
+13:40:56.848 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users found by name*
+13:40:56.851 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start updating the users*
+13:40:59.136 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users updated*
+13:40:59.138 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start Deleting the users by name*
+13:41:00.149 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users Deleted*
+13:41:38.213 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:41:40.939 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:41:40.950 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:41:42.143 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:41:42.145 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:41:43.343 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:41:43.345 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:41:44.527 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:41:44.636 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:41:45.795 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:41:45.796 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:41:46.969 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:41:46.970 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:41:48.162 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:41:48.164 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:41:49.222 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:41:49.421 [main] INFO  api.test.UserTest - *User creation started*
+13:41:50.529 [main] INFO  api.test.UserTest - *User created*
+13:41:50.531 [main] INFO  api.test.UserTest - *Fetching users by name*
+13:41:51.751 [main] INFO  api.test.UserTest - *Users found by name*
+13:41:51.754 [main] INFO  api.test.UserTest - *Start updating the users*
+13:41:54.141 [main] INFO  api.test.UserTest - *Users updated*
+13:41:54.143 [main] INFO  api.test.UserTest - *Start Deleting the users by name*
+13:41:55.341 [main] INFO  api.test.UserTest - *Users Deleted*
+13:41:55.384 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User creation started*
+13:41:56.552 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User created*
+13:41:56.553 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Fetching users by name*
+13:41:57.828 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users found by name*
+13:41:57.829 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start updating the users*
+13:42:00.226 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users updated*
+13:42:00.228 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start Deleting the users by name*
+13:42:01.502 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users Deleted*
+13:42:32.806 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:42:35.613 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:42:35.628 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:42:36.742 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:42:36.744 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:42:37.787 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:42:37.788 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:42:38.829 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:42:38.975 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:42:40.285 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:42:41.312 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:42:41.313 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:42:42.396 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:42:42.397 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:42:43.503 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:42:43.726 [main] INFO  api.test.UserTest - *User creation started*
+13:42:44.797 [main] INFO  api.test.UserTest - *User created*
+13:42:44.799 [main] INFO  api.test.UserTest - *Fetching users by name*
+13:42:45.888 [main] INFO  api.test.UserTest - *Users found by name*
+13:42:45.890 [main] INFO  api.test.UserTest - *Start updating the users*
+13:42:48.299 [main] INFO  api.test.UserTest - *Users updated*
+13:42:48.301 [main] INFO  api.test.UserTest - *Start Deleting the users by name*
+13:42:49.337 [main] INFO  api.test.UserTest - *Users Deleted*
+13:42:49.373 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User creation started*
+13:42:50.414 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User created*
+13:42:50.416 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Fetching users by name*
+13:42:51.423 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users found by name*
+13:42:51.424 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start updating the users*
+13:42:53.685 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users updated*
+13:42:53.687 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start Deleting the users by name*
+13:42:54.773 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users Deleted*
+13:45:51.613 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:45:54.651 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:45:54.662 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:45:55.858 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:45:55.859 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:45:57.044 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:45:57.045 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+13:45:58.192 [main] INFO  api.test.DataDrivenTest - *Users Created*
+13:45:58.353 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:45:59.547 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:45:59.548 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:46:00.641 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:46:00.642 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:46:01.848 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:46:01.850 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+13:46:02.883 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+13:46:03.081 [main] INFO  api.test.UserTest - *User creation started*
+13:46:04.290 [main] INFO  api.test.UserTest - *User created*
+13:46:04.293 [main] INFO  api.test.UserTest - *Fetching users by name*
+13:46:05.355 [main] INFO  api.test.UserTest - *Users found by name*
+13:46:05.356 [main] INFO  api.test.UserTest - *Start updating the users*
+13:46:07.714 [main] INFO  api.test.UserTest - *Users updated*
+13:46:07.716 [main] INFO  api.test.UserTest - *Start Deleting the users by name*
+13:46:08.839 [main] INFO  api.test.UserTest - *Users Deleted*
+13:46:08.874 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User creation started*
+13:46:09.961 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User created*
+13:46:09.962 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Fetching users by name*
+13:46:11.041 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users found by name*
+13:46:11.042 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start updating the users*
+13:46:13.227 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users updated*
+13:46:13.229 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start Deleting the users by name*
+13:46:14.252 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users Deleted*
+14:03:39.600 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+14:03:42.914 [main] INFO  api.test.DataDrivenTest - *Users Created*
+14:03:42.931 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+14:03:44.103 [main] INFO  api.test.DataDrivenTest - *Users Created*
+14:03:44.104 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+14:03:45.319 [main] INFO  api.test.DataDrivenTest - *Users Created*
+14:03:45.321 [main] INFO  api.test.DataDrivenTest - *Users creation started*
+14:03:46.417 [main] INFO  api.test.DataDrivenTest - *Users Created*
+14:03:46.562 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+14:03:47.694 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+14:03:47.696 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+14:03:48.780 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+14:03:48.781 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+14:03:49.990 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+14:03:49.991 [main] INFO  api.test.DataDrivenTest - *Users start deleting by name*
+14:03:51.118 [main] INFO  api.test.DataDrivenTest - *Users Deleted*
+14:03:51.306 [main] INFO  api.test.UserTest - *User creation started*
+14:03:52.402 [main] INFO  api.test.UserTest - *User created*
+14:03:52.404 [main] INFO  api.test.UserTest - *Fetching users by name*
+14:03:53.623 [main] INFO  api.test.UserTest - *Users found by name*
+14:03:53.625 [main] INFO  api.test.UserTest - *Start updating the users*
+14:03:55.861 [main] INFO  api.test.UserTest - *Users updated*
+14:03:55.865 [main] INFO  api.test.UserTest - *Start Deleting the users by name*
+14:03:56.908 [main] INFO  api.test.UserTest - *Users Deleted*
+14:03:56.947 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User creation started*
+14:03:58.134 [main] INFO  api.test.UserTest_From_PropertiesFiles - *User created*
+14:03:58.135 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Fetching users by name*
+14:03:59.276 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users found by name*
+14:03:59.277 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start updating the users*
+14:04:01.510 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users updated*
+14:04:01.511 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Start Deleting the users by name*
+14:04:02.719 [main] INFO  api.test.UserTest_From_PropertiesFiles - *Users Deleted*
