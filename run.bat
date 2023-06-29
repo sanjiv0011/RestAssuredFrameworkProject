@@ -1,3 +1,2 @@
 cd D:\Sanjiv_QA\Eclipse Project\Hybrid_Framword_Project
-mvn clean
-mvn install
+mvn clean install
